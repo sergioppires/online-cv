@@ -5,40 +5,40 @@
 sidebar:
     # Site Settings
     title: My Resume
-    url: 'http://webjeda.com'
+    url: 'https://sergioppires.github.io/'
     about: true # set to False or comment line if you want to remove the "How to use?" in the sidebar
     
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Sergio Pires
+    tagline: Business Intelligence
+    pic: profile.png 
     
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
-    twitter: '@webjeda'
-    codewars: codewars_username
+    email: sergioppires@live.com
+    phone: +55 11 996756402 
+    website: https://medium.com/@srgiopires #do not add http://
+    linkedin: sergioppires
+    github: sergioppires
+    twitter: '@sergioppires'
+    codewars: codewars_username    
 
     languages:
         - language:
-          idiom: English
+          idiom: Portuguese
           level: Native
         - language:
-          idiom: French
+          idiom: English
           level: Professional
         - language:
           idiom: Spanish
-          level: Professional
+          level: Intermediate
         
     interests:
         - interest:
-          item: Climbing
+          item: Artificial Intelligence
           link:
         - interest:
-          item: Snowboarding
+          item: Music
           link:
         - interest:
           item: Cooking
@@ -50,18 +50,18 @@ career-profile:
 
 studies: 
     - education:
-      degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+      degree: Internship Program in BSc Biomedical Engineering
+      university: Wayne State University
+      time: 2015 - 2016
       details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
       elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
       magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
       pellentesque eu, pretium quis, sem."
 
     - education:
-      degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+      degree: BSc in Science and Tecnology
+      university: Universidade Federal do ABC
+      time: 2013 - Present
       details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
       elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
       magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
@@ -79,14 +79,14 @@ experiences:
               - Bullet point #1
               - Bullet point #2
 
-        - role: Senior Software Engineer
+        - role: Research Auxiliary
           time: 2014 - 2015
           company: Google, London
           details: Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
               
-        - role: UI Developer
-          time: 2012 - 2014
-          company: Amazon, London
+        - role: Research Auxiliary 
+          time: 2016 - 2016
+          company: Rehabilitation Institute of Chicago, Chicago
           details: Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
           bullets:
               - Bullet point #1
