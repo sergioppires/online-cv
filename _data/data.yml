@@ -16,11 +16,11 @@ sidebar:
     # Sidebar links
     email: sergioppires@live.com
     phone: +55 11 996756402 
-    website: https://medium.com/@srgiopires #do not add http://
+    website: medium.com/@srgiopires #do not add http://
     linkedin: sergioppires
     github: sergioppires
     twitter: '@sergioppires'
-    codewars: codewars_username    
+    # codewars: codewars_username    
 
     languages:
         - language:
@@ -71,87 +71,63 @@ experiences:
     title: Experiences
     
     experiences:
-        - role: Lead Developer
-          time: 2015 - Present
-          company: Startup Hubs, San Francisco
+        - role: Business Intelligence Intern
+          time: 06/2016 - Present
+          company: Amazon, Sao Paulo
           details: Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
           bullets:
               - Bullet point #1
               - Bullet point #2
 
-        - role: Research Auxiliary
-          time: 2014 - 2015
-          company: Google, London
+        - role: Business Intelligence Intern
+          time: 01/2016 - 05/2016
+          company: Siemens Healthineers, Sao Paulo
           details: Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
               
-        - role: Research Auxiliary 
-          time: 2016 - 2016
+        - role: Researcher (Intern)
+          time: 04/2016 - 07/2016
           company: Rehabilitation Institute of Chicago, Chicago
-          details: Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
+          details: A 3 month research Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
           bullets:
               - Bullet point #1
               - Bullet point #2
               
 projects:
     title: Projects
-    intro: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
-      sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+    intro: "Under Construction"
     
     projects:
       - project:
-        title: Velocity
+        title: Under Construction
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-      - project:
-        title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-      - project:
-        title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-      - project:
-        title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-      - project:
-        title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Under Construction"
+
 
 publications:
     title: Publications
-    intro: "You can list your publications in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+    intro: "Under Construction"
     
     publications:
       - paper:
-        title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-      - paper:
-        title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-      - paper:
-        title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        title: Under Construction
+        authors: Under Construction
+        conference: Under Construction
 
 skills:
     title: Skills &amp; Proficiency
     skills:
         - skill:
-          name: Python & Django
-          level: 98%
-        - skill:
-          name: Javascript & jQuery
-          level: 98%
-        - skill:
-          name: Angular
-          level: 98%
-        - skill:
-          name: HTML5 & CSS
+          name: SQL
           level: 95%
+        - skill:
+          name: Microsoft Excel
+          level: 95%
+        - skill:
+          name: Python 
+          level: 80%
+        - skill:
+          name: Machine Learning
+          level: 70%
         - skill:
           name: Ruby on Rails
           level: 85%
